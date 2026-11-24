@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**vivek-maddala/vivek-maddala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder of ForgePath | Student Innovator | Technology Enthusiast
 
-Here are some ideas to get you started:
+I'm Vivek Maddala, passionate about technology, entrepreneurship, and building innovative digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building **ForgePath**, a technology startup developing solutions across education, learning, travel, and career development.
+
+My vision is to turn meaningful ideas into impactful digital experiences.
+
+- 🚀 I'm currently building ForgePath and its digital products.
+- 💡 I'm interested in Artificial Intelligence, entrepreneurship, and innovation.
+- 🌱 I'm exploring product development and startup building.
+- 🤝 I'm looking to collaborate with developers, designers, and innovators.
+- 🎯 My goal is to turn innovative ideas into useful digital solutions.
+- 🏢 Founder of ForgePath.
+- 🌐 Website: https://forge-path.base44.app/
+- 📸 Instagram: https://www.instagram.com/ForgePath_official/
