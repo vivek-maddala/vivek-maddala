@@ -13,12 +13,12 @@ An AI student operating system designed to help learners understand concepts, id
 
 - [Project overview and development priorities](projects/eduverse-ai.md)
 
-### Lumovia
+### [Lumovia](https://github.com/vivek-maddala/Lumovia)
 A learning platform built around courses, lessons, quizzes, doubt support, and certificates.
 
 - [Project overview and development priorities](projects/lumovia.md)
 
-### Clarivo
+### [Clarivo](https://github.com/vivek-maddala/Clarivo)
 A career-guidance platform intended to help students and professionals explore suitable paths using their interests, strengths, and learning insights.
 
 - [Project overview and development priorities](projects/clarivo.md)
@@ -26,6 +26,9 @@ A career-guidance platform intended to help students and professionals explore s
 These are evolving products. Features and availability may change as they are developed and tested. The project pages distinguish intended capabilities from verified availability.
 
 ## 🧩 ForgePath portfolio
+
+**Project repositories:** [EduVerse AI](https://github.com/vivek-maddala/EduVerse-AI) · [Lumovia](https://github.com/vivek-maddala/Lumovia) · [Clarivo](https://github.com/vivek-maddala/Clarivo)
+
 
 Explore the [project portfolio](projects/README.md) for an overview of how the three products fit into the ForgePath ecosystem.
 
